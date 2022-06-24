@@ -1,8 +1,26 @@
-# ResumeExamples
-This repository is meant to showcase some scripts that I have created.
+# Hey! Look at you doing your due dilligence
+You're thinking about hiring me, and you came here hoping to see some examples of code I have written. 
 
+I have spent a lot of time creating automated services that make my life easier
 
-# Example Scripts:
+# Why do these scripts exist?
+A big project of mine, is an automated media system
+
+I have a very large media library, mostly viewable through a service called Plex
+I created a system to automate tasks involved with maintaining such a system
+These are scripts that fill in the gaps left by other services
+
+* Finds media to obtain (from youtube and such)
+* Downloads Media
+* Decides when to upgrade media quality (if available)
+* Sorts Media into a consistent file structure
+* Transcodes media into consistent video format
+* Downloads subtitles for media
+* Tags media based on a number of criteria
+
+This is a selection of some functionality of that system
+
+# Example Scripts
 * YakScripts.sh
   * This is a launcher for this project
   * Most of these scripts are called from cron, this makes that simple
