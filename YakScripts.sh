@@ -75,7 +75,7 @@ case "$1" in
   -test_notifications) python3 /scripts/Notifications/notifier.py ;;
   -test_logging) echo "Test";;
   -count_down_days) python3 /scripts/Notifications/daycountdown.py ;;
-  *) echo "Thats not a function, dumbass." ;;
+  *) echo "Thats not a function, silly." ;;
 esac
 
 
