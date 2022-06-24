@@ -1,4 +1,4 @@
-# Hey! Look at you doing your due dilligence
+# Hey! Here is some code I wrote
 You're thinking about hiring me, and you came here hoping to see some examples of code I have written. 
 
 I have spent a lot of time creating automated services that make my life easier
@@ -6,8 +6,9 @@ I have spent a lot of time creating automated services that make my life easier
 # Why do these scripts exist?
 A big project of mine, is an automated media system
 
-I have a very large media library, mostly viewable through a service called Plex
-I created a system to automate tasks involved with maintaining such a system
+I have a very large video media library, viewable through a service called Plex
+
+I created a project to automate tasks involved with maintaining such a system
 These are scripts that fill in the gaps left by other services
 
 * Finds media to obtain (from youtube and such)
