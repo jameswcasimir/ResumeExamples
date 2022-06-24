@@ -7,6 +7,7 @@ This repository is meant to showcase some scripts that I have created.
   * This is a launcher for this project
   * Most of these scripts are called from cron, this makes that simple
   * It also sets variables like the pythonpath, implements logging
+  * I left this more or less unaltered, so that you can see everything it does
 * PauseDownloader_WithPlexActivity
   * There are 2 processes on my server which consume a lot of cpu usage
   * Plex, and my Newsgroup downloader
